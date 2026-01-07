@@ -1,1 +1,13 @@
-
+Item,Description,Quantity,Unit Price ($),Total Price ($),URL,Running Total (in $ with Tax & Shipping)
+18650 Batteries,Batteries used to power the AQMs,1,"22,44","22,44","Pack of 5 3.7 V 18650 Batteries, 1200 mAh Lithium Ion Batteries, Li-Ion Battery with 5 SM-2P Plug & USB Charging Cable, Li-ion Power Replacement Battery, RC Recgargeble Battery for Tanks, Cars, RC: Amazon.de: Electronics & Photo","22,44"
+Cable,22 AWG Cable for maing connection w/Soldering,1,"2,2","2,2",Super Soft Silicone red black Wire 12 14 16 18 20 22 24 AWG Heat-resistant Car Battery Electrical Power Cable 10 8 6awg - AliExpress,"24,64"
+RGB LEDs,used to indicate air quality in person,1,"1,09","1,09",https://de.aliexpress.com/item/1005004567358995.html?spm=a2g0o.cart.0.0.4c0638daZlHWhR&mp=1&pdp_npi=6%40dis%21USD%21USD%201.09%21USD%201.09%21%21USD%201.00%21%21%21%402103847817678114403152789e3c47%2112000029654169026%21ct%21DE%217079401803%21%211%210%21&gatewayAdapt=glo2deu,"25,73"
+ESP32C3 SuperMINI,mcu for this project,1,"1,19","1,19",1PCS~10PCS ESP32-C3 Development Board ESP32 SuperMini Development Board ESP32 Development Board WiFi Bluetooth For Arduino - AliExpress 502,"26,92"
+Active Buzzer,inperson warning if airquality = bad,1,"2,38","2,38",BS 12mm Mini Active Piezo Buzzer: 3V/5V/12V/24V Magnetic Continuous Beep Alarm – For Arduino DIY Kits - AliExpress 502,"29,3"
+Elastic Bands,Holds the cases together,1,"3,29","3,29",Thick Elastic Bands Heavy Duty Rubber Bands Can Bands Office File Folder Strong Elastic Rubber Bands For School Home Offic - AliExpress 15,"32,59"
+Switch,Lets you turn the AQMs on or off,1,"1,13","1,13",5/10PCS KCD11 Rocker Switch 10*15mm Mini Push Button Switch ON-OFF / ON-OFF-ON 2 Pins / 3 Pins 3A 250VAC / 6A 125VAC 10x15mm,"33,72"
+SCD40,"The temperature-, humidity- & CO²-sensor",5,"21,66","108,3",SCD40 SCD41 Gas sensor module detects CO2 carbon dioxide temperature and humidity two-in-one I2C communication - AliExpress 502,"142,02"
+TP4057,Battery charge module/power-supply module,1,"2,69","2,69",5/10pcs TP4057 1A 3.7V Lithium Battery Charging and Discharging Board with Protection Type-C USB C Li-ion Battery Charging Board - AliExpress,"144,71"
+,,,,,,
+,,,,,,Grand Total
+,,,,,,"144,71"
