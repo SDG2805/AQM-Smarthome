@@ -1,0 +1,7 @@
+This is the library for the CO²-sensor: https://learn.adafruit.com/adafruit-scd-40-and-scd-41/arduino
+
+Here is the documentation for RemoteXY: https://remotexy.com/en/help/
+
+Because RemoteXY uses bluetooth you have to also use the BLEDevice library for arduino ide: https://github.com/nkolban/ESP32_BLE_Arduino/tree/master
+
+And since the sensor is an I2C device you also must use the wire library: https://docs.arduino.cc/language-reference/en/functions/communication/wire/
