@@ -1,6 +1,5 @@
-# AQM-Smarthome
-In my family's apartment 6 people have to live in a quite cramped space. 
-That's why I'm building a AQM (Air-Quality-Monitor)-Smarthome to help our ventilation system and our health!
+# AQM-Smarthome 
+I'm building AQM (Air-Quality-Monitor)-System to help my family's ventilation system and our health!
 
 For this there are 2 main components: The AQMs (5 in total; 1 per main room) & The Software (a mobile App)
 
@@ -21,11 +20,11 @@ For this there are 2 main components: The AQMs (5 in total; 1 per main room) & T
 - code for mcu written in the Ardiuno IDE
 - Android App through RemoteXY:
   - RemoteXY has drag-and-drop ui editor
-  - costs 1.5€ per month (<2$) WHICH I AM PAYIYNG WITH MY OWN POCKET MONEY
+  - costs 1.5€ per month (<2$)
   - lets you add infinite amount of devices
   - lets you imput parameters such as Volume of a Room, People inside a Room, Outside temp 
   - gives notification if ventilation is needed and how long  you should ventilate for according to the upper parameters
-  - # IT WORKS!!!!!! (Based of testing with the prototype which has similar hardware to the final products)
+  - # IT WORKS! (Based of testing with the prototype which has similar hardware to the final products)
 
 # BOM - Bill of Materials:
 <img width="1746" height="615" alt="image" src="https://github.com/user-attachments/assets/664423f9-02b0-4653-b7fe-4bb01ced0db1" />
